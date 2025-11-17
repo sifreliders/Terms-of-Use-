@@ -4,14 +4,14 @@ Last Updated: November 2025
 
 App Name: Spend Guide
 
-Developer: Metin Meric
+Developer: Şifreli Ders
 
 **1. Acceptance of Terms**
 
 By downloading or using Spend Guide, you agree to these Terms of Use.
 If you do not agree with any part of these terms, you must stop using the app and remove it from your device.
 
-These terms form a legal agreement between you (“the User”) and Metin Meriç (“the Developer”) regarding your use of the application.
+These terms form a legal agreement between you (“the User”) and Şifreli Ders (“the Developer”) regarding your use of the application.
 
 **2. Description of Service**
 
@@ -85,5 +85,5 @@ The developer reserves the right to discontinue the app or remove it from app st
 
 For questions, feedback, or support, please contact:
 
-Developer: Metin Meric
+Developer: Şifreli Ders
 Email: sifreliders@gmail.com
